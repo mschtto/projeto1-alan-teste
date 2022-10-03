@@ -1,0 +1,20 @@
+manual github 
+
+git init - inicialização go hit hub 
+git status - status dos documentos 
+git add "" - adicionar documentos no git ou atualizações das versões 
+gut add . - adiciona todos os documentos de uma vez 
+git commit -m "" - adicionaa o comit no site do git 
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+com a atualização desse dados para que seja incluido no local certo 
+git push - sobe o commit pro servidor
+git remote add origin (ex :https://github.com/mschtto/projeto1-alan-teste)- envia o comit pro site de destino  
+git reflog - vé as versões do commits 
+git reset --hard - volta uma versão ou avanã a versão. 
+git branch - ve onde esta sendo salvo os commit ou pra onde são enviados - você pode escolher onde quer salvar seu commit em serta branch 
+git checkout - seleciona qual branch usar 
+gir merge - muda a brnch e adiciona os documentos 
+git commit -m - confimação de alteração de commit 
+git checkout master - direciona para a master 
+git pull - ataulização da mastr para o codigo atual
